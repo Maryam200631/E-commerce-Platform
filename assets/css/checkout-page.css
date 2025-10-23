@@ -1,0 +1,213 @@
+/* =================================== */
+/* ====== كود صفحة الدفع (المعدل) ====== */
+/* =================================== */
+
+/* تنسيق فورم الخطوات الأساسي */
+.checkout-steps-form-style-1 {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.07);
+    border-radius: 5px !important;
+    overflow: hidden;
+    margin-bottom: 30px;
+
+    /* ✅ الإضافة الجديدة لتباعد المحتوى عن الحواف */
+    padding: 40px;
+}
+
+/* تنسيق عناوين الخطوات (الأكورديون) */
+.checkout-steps-form-style-1 .vj-accordion-steps .vj-title {
+    padding: 20px 30px;
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--dark-1);
+    background: #f9f9f9;
+    border-top: 1px solid #f0f0f0;
+    cursor: pointer;
+    position: relative;
+    user-select: none;
+}
+.checkout-steps-form-style-1 .vj-accordion-steps .vj-title:first-child {
+    border-top: 0;
+}
+.checkout-steps-form-style-1 .vj-accordion-steps .vj-title.active {
+    background: #fff;
+    color: var(--primary);
+}
+.checkout-steps-form-style-1 .vj-accordion-steps .vj-title::after {
+    content: '\F0415'; /* MDI plus icon */
+    font-family: 'Material Design Icons';
+    position: absolute;
+    right: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    color: var(--dark-2);
+}
+.checkout-steps-form-style-1 .vj-accordion-steps .vj-title.active::after {
+    content: '\F0374'; /* MDI minus icon */
+    color: var(--primary);
+}
+.checkout-steps-form-style-1 .vj-accordion-steps .vj-content {
+    padding: 30px;
+    border-top: 1px solid #f0f0f0;
+    display: none;
+}
+
+/* تنسيق الفورم اللي جوه */
+.checkout-form-style-1 .form-group {
+    margin-bottom: 20px;
+}
+.checkout-form-style-1 .form-group label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 8px;
+    color: var(--dark-2);
+    font-weight: 500;
+}
+.checkout-form-style-1 .form-control,
+.checkout-form-style-1 .form-select,
+.checkout-form-style-1 .nice-select {
+    height: 50px;
+    padding: 0 20px;
+    border: 1px solid #f0f0f0;
+    background: #f9f9f9;
+    border-radius: 5px;
+    width: 100%;
+}
+.checkout-form-style-1 .form-control:focus,
+.checkout-form-style-1 .nice-select.open {
+    background: #fff;
+    border-color: var(--primary) !important;
+    box-shadow: none;
+}
+.checkout-form-style-1 .nice-select .list {
+    width: 100%;
+}
+.checkout-form-style-1 .form-check-label {
+    font-size: 15px;
+    color: var(--dark-2);
+}
+
+/* =====================================
+==== التعديل التاني هيبدأ من هنا ==== 
+===================================== */
+
+/* العمود اليمين (الصناديق الخارجية) */
+.checkout-coupon-wrapper,
+.checkout-products-wrapper,
+.checkout-summary-wrapper {
+    background: #fff;
+    padding: 40px; /* زيادة البادينج لإبعاد الكلام عن الحواف */
+    border: 1px solid #f0f0f0;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.07);
+    border-radius: 5px !important;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+/* بنشيل المسافة الزيادة من آخر صندوق */
+.checkout-summary-wrapper {
+    margin-bottom: 0;
+}
+
+/* تنسيق الكوبون */
+.checkout-coupon-wrapper p {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.checkout-coupon-wrapper .single-form { max-width: 100%; }
+.checkout-coupon-wrapper .form-input { display: flex; }
+.checkout-coupon-wrapper .form-input input {
+    width: 100%;
+    border-radius: 5px 0 0 5px;
+    height: 50px;
+    background: #f9f9f9;
+}
+.checkout-coupon-wrapper .form-input input:focus {
+    background: #fff;
+    border-color: var(--primary);
+}
+.checkout-coupon-wrapper .form-input .main-btn {
+    border-radius: 0 5px 5px 0;
+    padding: 0 25px;
+}
+
+/* تنسيق صندوق المنتجات */
+.checkout-products-wrapper {
+    padding-bottom: 20px;
+}
+.checkout-products-wrapper .accordion-item {
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+}
+.checkout-products-wrapper .accordion-header {
+    border-bottom: 0;
+}
+.checkout-products-wrapper .accordion-button {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--dark-1);
+    background: #fff;
+    box-shadow: none;
+    padding: 0;
+    border: none; /* شيل الحواف من الزر */
+}
+.checkout-products-wrapper .accordion-button:focus { box-shadow: none; }
+.checkout-products-wrapper .accordion-button::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23666'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+.checkout-products-wrapper .accordion-body {
+    padding: 15px 0 0 0;
+}
+.checkout-products-list {
+    max-height: 250px;
+    overflow-y: auto;
+}
+.checkout-products-list .single-product-item {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f0f0f0;
+}
+.checkout-products-list .single-product-item:first-child { margin-top: 0; }
+.checkout-products-list .single-product-item:last-child { padding-bottom: 0; border-bottom: 0; }
+.checkout-products-list .product-thumb { max-width: 60px; margin-right: 15px; }
+.checkout-products-list .product-content { flex-grow: 1; padding-right: 15px; }
+.checkout-products-list .product-content .title { font-size: 15px; font-weight: 600; margin-bottom: 3px; }
+.checkout-products-list .product-content p { font-size: 13px; color: var(--dark-3); margin: 0; line-height: 1.4; }
+.checkout-products-list .product-price .price { font-size: 15px; font-weight: 600; color: var(--dark-1); }
+
+/* ملخص السعر */
+.checkout-summary-wrapper .heading-5 { 
+    padding-bottom: 20px; 
+    border-bottom: 1px solid #f0f0f0; 
+}
+.checkout-summary-wrapper .cart-summary-list { 
+    margin-top: 25px; 
+}
+.checkout-summary-wrapper .cart-summary-list li { 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    font-size: 15px; 
+    color: var(--dark-2); 
+    margin-bottom: 15px; 
+}
+.checkout-summary-wrapper .cart-summary-list li span:last-child { 
+    font-weight: 600; 
+}
+.checkout-summary-wrapper .cart-summary-list li.total { 
+    font-size: 18px; 
+    font-weight: 600; 
+    color: var(--dark-1); 
+    border-top: 1px solid #f0f0f0; 
+    padding-top: 20px; 
+}
+.checkout-summary-wrapper .cart-summary-list li.total span:last-child { 
+    color: var(--primary); 
+}
+.checkout-summary-wrapper .checkout-btn .main-btn { 
+    width: 100%; 
+}

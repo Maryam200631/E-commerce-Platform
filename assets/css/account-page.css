@@ -1,0 +1,207 @@
+/* =================================== */
+/* ====== صفحة الأكونت (النهائية) ====== */
+/* =================================== */
+
+.account-profile-header {
+  position: relative;
+  background: #fff;
+  border: 1px solid #f0f0f0;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.07);
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+/* صورة الغلاف */
+.profile-cover-img {
+  height: 250px;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 5px 5px 0 0;
+}
+
+/* معلومات المستخدم */
+.profile-info-wrapper {
+  display: flex;
+  align-items: center;
+  padding: 0 30px 30px 30px;
+  margin-top: -50px;
+  position: relative;
+}
+
+.profile-avatar {
+  max-width: 100px;
+  min-width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  margin-right: 25px;
+}
+
+.profile-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.profile-text .name {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--dark-1, #1e1e1e);
+  margin-bottom: 3px;
+}
+
+.profile-text .email {
+  font-size: 15px;
+  color: var(--dark-3, #7a7a7a);
+  margin: 0;
+}
+
+/* الصناديق */
+.account-details-wrapper,
+.account-cards-wrapper {
+  background: #fff;
+  padding: 30px;
+  border: 1px solid #f0f0f0;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.07);
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.account-cards-wrapper {
+  margin-bottom: 0;
+}
+
+/* ===== التعديل الأساسي: خلفية رمادية لرأس القسم ===== */
+.details-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* نجعل خلفية السطر رمادية فاتحة مثل الصورة */
+  background-color: #f3f4f6; /* اختاري بدلها أي رمز من نظام الألوان عندك */
+  padding: 16px 20px;        /* مسافة داخلية مناسبة */
+  border-radius: 6px;        /* حواف طفيفة */
+  margin-bottom: 18px;       /* فراغ بسيط أسفله قبل المحتوى */
+  /* لا نستخدم border-bottom هنا لأن اللون جزء من الخلفية */
+}
+
+/* عنوان الرأس */
+.details-header .title {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--dark-1, #1e1e1e);
+  margin: 0;
+}
+
+/* الزرار (EDIT / ADD CARDS) */
+.details-header .edit-btn {
+  font-size: 14px;
+  font-weight: 600;
+  color: #542DED; /* مطابق للـ primary-color */
+  text-decoration: none;
+  transition: all 0.2s ease;
+  padding: 6px 10px;
+  border-radius: 4px;
+}
+.details-header .edit-btn:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+
+/* قائمة التفاصيل */
+/* ===== نلغي الفواصل (no borders) بين السطور ===== */
+.details-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.details-list li {
+  display: flex;
+  font-size: 16px;
+  margin-bottom: 12px;     /* فراغ بين السطور أخف من قبل */
+  padding-bottom: 0;       /* نشيل البادينج السفلي لأن مفيش فاصل */
+  /* لا border-bottom هنا */
+  align-items: center;
+}
+
+.details-list li:last-child {
+  margin-bottom: 0;
+}
+
+/* مفاتيح وقيم السطور */
+.details-list .key {
+  color: var(--dark-3, #7a7a7a);
+  width: 150px;
+  font-weight: 500;
+  flex-shrink: 0;
+}
+
+.details-list .value {
+  color: var(--dark-1, #1e1e1e);
+  font-weight: 600;
+}
+
+/* الكروت */
+.single-card {
+  border: 1px solid #f0f0f0;
+  border-radius: 8px;
+  padding: 20px;
+  transition: all 0.3s ease;
+  margin-top: 15px;
+}
+
+.single-card:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+  transform: translateY(-3px);
+}
+
+/* أيقونات الكروت */
+.single-card .card-icon {
+  font-size: 30px;
+  margin-bottom: 10px;
+  display: block;
+}
+.single-card .card-icon.visa { color: #1a1f71; }
+.single-card .card-icon.amex { color: #007bc1; }
+.single-card .card-icon.mastercard { color: #eb001b; }
+
+.single-card .card-name {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-weight: 600;
+  color: var(--dark-1, #1e1e1e);
+}
+
+.single-card .card-number,
+.single-card .card-expiry {
+  display: block;
+  font-size: 14px;
+  color: var(--dark-3, #7a7a7a);
+  line-height: 1.4;
+}
+
+/* استجابة للشاشات الصغيرة */
+@media (max-width: 576px) {
+  .profile-info-wrapper {
+    flex-direction: column;
+    text-align: center;
+    margin-top: -60px;
+  }
+
+  .profile-avatar {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+
+  .details-list li {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .details-list .key {
+    width: 100%;
+    margin-bottom: 6px;
+  }
+}

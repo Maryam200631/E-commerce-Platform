@@ -1,0 +1,215 @@
+/* =================================== */
+/* ====== كود صفحة الكاتيجوري المخصص ====== */
+/* =================================== */
+
+/* تنسيق صندوق الفلاتر الجانبي */
+.category-sidebar-wrapper {
+    background: #fff;
+    padding: 30px;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.07);
+    border-radius: 5px;
+}
+
+.filter-widget {
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #f0f0f0;
+}
+.filter-widget:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+.filter-widget .widget-header {
+    margin-bottom: 15px;
+}
+.filter-widget .widget-header .title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #000;
+}
+.filter-widget .widget-header .reset-btn {
+    font-size: 14px;
+    font-weight: 500;
+    color: #7D7D7D;
+    text-decoration: none;
+}
+.filter-widget .widget-header .reset-btn:hover {
+    color: #FF4B22; /* error color */
+}
+
+/* زرار فتح وقفل الفلتر */
+.widget-toggle-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+}
+.widget-toggle-btn i {
+    transition: all 0.3s ease;
+}
+.widget-toggle-btn[aria-expanded="false"] i {
+    transform: rotate(-90deg);
+}
+
+/* سلايدر السعر (تعديل على ستايل jquery-ui) */
+.price-range-slider .ui-slider {
+    background: #EFEFEF;
+    border: none;
+    height: 6px;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+.price-range-slider .ui-slider-handle {
+    width: 16px;
+    height: 16px;
+    background: #fff;
+    border: 3px solid #542DED; /* primary color */
+    border-radius: 50%;
+    cursor: pointer;
+    top: -5px;
+}
+.price-range-slider .ui-slider-handle:focus {
+    outline: none;
+}
+.price-range-slider .ui-slider-range {
+    background: #542DED; /* primary color */
+    border-radius: 3px;
+}
+.price-range-slider .price-inputs span {
+    font-size: 14px;
+    color: #7D7D7D;
+}
+.price-range-slider .price-inputs strong {
+    font-size: 15px;
+    color: #000;
+    font-weight: 600;
+}
+
+/* فلاتر التشيك بوكس */
+.filter-checkbox-list,
+.filter-color-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.filter-checkbox-list li,
+.filter-color-list li {
+    margin-top: 12px;
+}
+.filter-checkbox-list li:first-child,
+.filter-color-list li:first-child {
+    margin-top: 0;
+}
+.filter-checkbox-list .form-check-label,
+.filter-color-list .form-check-label {
+    font-size: 15px;
+    color: #4C4C4C;
+}
+
+/* فلتر الألوان */
+.filter-color-list .form-check-input {
+    width: 18px;
+    height: 18px;
+    border-radius: 50% !important;
+    border: 1px solid #ddd;
+}
+.filter-color-list .form-check-input:checked {
+    border-color: #542DED; /* primary color */
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px #542DED;
+}
+.filter-color-list .form-check-input:focus {
+    box-shadow: none;
+}
+
+/* فلتر المقاسات */
+.filter-size-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.filter-size-list li a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    line-height: 38px;
+    text-align: center;
+    border: 1px solid #f0f0f0;
+    background: #f9f9f9;
+    color: #4C4C4C;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 4px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+.filter-size-list li a:hover,
+.filter-size-list li a.active {
+    background: #542DED; /* primary color */
+    color: #fff;
+    border-color: #542DED;
+}
+
+
+/* العمود اليمين (المنتجات) */
+.category-header {
+    background: #fff;
+    padding: 20px 30px;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.07);
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.category-header .results-text {
+    margin: 0;
+    color: #4C4C4C;
+}
+.category-header .view-options .view-btn {
+    font-size: 24px;
+    color: #7D7D7D;
+    margin-left: 10px;
+}
+.category-header .view-options .view-btn:hover,
+.category-header .view-options .view-btn.active {
+    color: #542DED; /* primary color */
+}
+
+/* أرقام الصفحات */
+.pagination-wrapper {
+    margin-top: 40px;
+}
+.pagination-wrapper .page-item .page-link {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    padding: 0;
+    border: 1px solid #f0f0f0;
+    color: #4C4C4C;
+    font-weight: 500;
+    margin: 0 5px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+.pagination-wrapper .page-item .page-link:hover,
+.pagination-wrapper .page-item.active .page-link {
+    background: #542DED; /* primary color */
+    border-color: #542DED;
+    color: #fff;
+}
+.pagination-wrapper .page-item:first-child .page-link,
+.pagination-wrapper .page-item:last-child .page-link {
+    border-radius: 4px;
+}
+.pagination-wrapper .page-item .page-link i {
+    font-size: 20px;
+}

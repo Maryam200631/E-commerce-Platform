@@ -1,0 +1,170 @@
+/* =================================== */
+/* ====== كود صفحة اللوجن المخصص ====== */
+/* =================================== */
+
+.login-form-wrapper {
+    background: #fff;
+    padding: 40px;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.07);
+    border-radius: 5px;
+}
+
+.login-form-wrapper .title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.login-form-wrapper .desc {
+    font-size: 15px;
+    color: #7D7D7D;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.login-form-wrapper .form-group {
+    margin-bottom: 20px;
+}
+
+.login-form-wrapper .form-group label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 8px;
+    color: #4C4C4C;
+    font-weight: 500;
+}
+
+.login-form-wrapper .form-control {
+    height: 50px;
+    border: 1px solid #f0f0f0;
+    background: #f9f9f9;
+    border-radius: 5px;
+    padding-left: 50px; /* مسافة للأيقونة الشمال */
+}
+.login-form-wrapper .form-control:focus {
+    background: #fff;
+    border-color: #542DED; /* لون البرايمري */
+    box-shadow: none;
+}
+
+/* تنسيق الأيقونات */
+.login-form-wrapper .input-group .icon {
+    background-color: #f9f9f9;
+    border: 1px solid #f0f0f0;
+    border-right: 0;
+    border-radius: 5px 0 0 5px;
+    color: #7D7D7D;
+    padding: 0 15px;
+}
+.login-form-wrapper .input-group .icon-right {
+    background-color: #f9f9f9;
+    border: 1px solid #f0f0f0;
+    border-left: 0;
+    border-radius: 0 5px 5px 0;
+    color: #7D7D7D;
+    padding: 0 15px;
+    cursor: pointer;
+}
+.login-form-wrapper .form-control:focus + .icon-right,
+.login-form-wrapper .input-group:focus-within .icon {
+     border-color: #542DED; /* لون البرايمري */
+     color: #542DED;
+}
+/* عشان الباسورد */
+.login-form-wrapper .input-group .form-control {
+    border-left: 0;
+    border-right: 0;
+    padding-left: 15px; /* نرجع البادينج العادي */
+}
+.login-form-wrapper .input-group .form-control#loginEmail {
+    border-left: 0;
+    padding-left: 15px;
+}
+
+
+/* "تذكرني" و "نسيت الباسورد" */
+.form-options .form-check-label {
+    font-size: 15px;
+    color: #4C4C4C;
+}
+.form-options .forgot-link {
+    font-size: 15px;
+    color: #542DED; /* لون البرايمري */
+    text-decoration: none;
+    font-weight: 500;
+}
+.form-options .forgot-link:hover {
+    text-decoration: underline;
+}
+
+/* زرار الدخول */
+.form-submit .main-btn {
+    width: 100%;
+    text-transform: uppercase; /* زي الصورة */
+}
+
+/* فاصل "Or" */
+.form-divider {
+    margin: 25px 0;
+    position: relative;
+    text-align: center;
+}
+.form-divider span {
+    background: #fff;
+    padding: 0 10px;
+    position: relative;
+    z-index: 2;
+    color: #7D7D7D;
+    font-weight: 500;
+}
+.form-divider::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    height: 1px;
+    width: 100%;
+    background: #f0f0f0;
+    z-index: 1;
+}
+
+/* أزرار السوشيال */
+.social-login {
+    text-align: center;
+}
+.social-login .social-btn {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 20px;
+    margin: 0 8px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+.social-login .social-btn.facebook {
+    background: #3b5998;
+}
+.social-login .social-btn.google {
+    background: #fff;
+    color: #db4437;
+    border: 1px solid #f0f0f0;
+}
+.social-login .social-btn:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+
+/* لينك التسجيل */
+.login-form-wrapper .signup-link {
+    color: #542DED; /* لون البرايمري */
+    font-weight: 600;
+    text-decoration: none;
+}
+.login-form-wrapper .signup-link:hover {
+    text-decoration: underline;
+}

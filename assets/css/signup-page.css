@@ -1,0 +1,157 @@
+/* =================================== */
+/* ====== كود صفحة التسجيل المخصص ====== */
+/* =================================== */
+
+.register-form-wrapper {
+    background: #fff;
+    padding: 40px;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.07);
+    border-radius: 5px;
+}
+
+.register-form-wrapper .title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 30px; /* زيادة المسافة */
+    text-align: center;
+}
+
+/* (نفس كود فورم اللوجن) */
+.register-form-wrapper .form-group {
+    margin-bottom: 20px;
+}
+.register-form-wrapper .form-group label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 8px;
+    color: #4C4C4C;
+    font-weight: 500;
+}
+.register-form-wrapper .form-control {
+    height: 50px;
+    border: 1px solid #f0f0f0;
+    background: #f9f9f9;
+    border-radius: 5px;
+    padding-left: 50px;
+}
+.register-form-wrapper .form-control:focus {
+    background: #fff;
+    border-color: #542DED;
+    box-shadow: none;
+}
+.register-form-wrapper .input-group .icon {
+    background-color: #f9f9f9;
+    border: 1px solid #f0f0f0;
+    border-right: 0;
+    border-radius: 5px 0 0 5px;
+    color: #7D7D7D;
+    padding: 0 15px;
+}
+.register-form-wrapper .input-group .icon-right {
+    background-color: #f9f9f9;
+    border: 1px solid #f0f0f0;
+    border-left: 0;
+    border-radius: 0 5px 5px 0;
+    color: #7D7D7D;
+    padding: 0 15px;
+    cursor: pointer;
+}
+.register-form-wrapper .form-control:focus + .icon-right,
+.register-form-wrapper .input-group:focus-within .icon {
+     border-color: #542DED;
+     color: #542DED;
+}
+.register-form-wrapper .input-group .form-control {
+    border-left: 0;
+    border-right: 0;
+    padding-left: 15px;
+}
+.register-form-wrapper .input-group .form-control#regEmail { /* للإيميل */
+    border-left: 0;
+    border-right: 1px solid #f0f0f0; /* بنرجع البوردر اليمين */
+    padding-left: 15px;
+}
+.register-form-wrapper .input-group .form-control#regFirstName { /* للاسم الأول */
+    border-left: 0;
+    padding-left: 15px;
+}
+
+/* "I accept" */
+.form-options .form-check-label {
+    font-size: 15px;
+    color: #4C4C4C;
+}
+
+/* زرار التسجيل */
+.form-submit .main-btn {
+    width: 100%;
+    text-transform: uppercase;
+}
+
+/* لينك اللوجن */
+.register-form-wrapper .login-link {
+    color: #542DED;
+    font-weight: 600;
+    text-decoration: none;
+}
+.register-form-wrapper .login-link:hover {
+    text-decoration: underline;
+}
+
+/* فاصل "Or" */
+.form-divider {
+    margin: 25px 0;
+    position: relative;
+    text-align: center;
+}
+.form-divider span {
+    background: #fff;
+    padding: 0 10px;
+    position: relative;
+    z-index: 2;
+    color: #7D7D7D;
+    font-weight: 500;
+}
+.form-divider::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    height: 1px;
+    width: 100%;
+    background: #f0f0f0;
+    z-index: 1;
+}
+
+/* أزرار السوشيال (بالعرض الكامل) */
+.social-login-full .social-btn-full {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-top: 15px;
+    transition: all 0.3s ease;
+}
+.social-login-full .social-btn-full i {
+    font-size: 20px;
+    margin-right: 10px;
+}
+.social-login-full .social-btn-full.facebook {
+    background: #3b5998;
+}
+.social-login-full .social-btn-full.google {
+    background: #fff;
+    color: #4C4C4C; /* لون الكلام أسود/رمادي */
+    border: 1px solid #f0f0f0;
+}
+.social-login-full .social-btn-full:hover {
+    opacity: 0.9;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.05);
+}

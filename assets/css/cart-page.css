@@ -1,0 +1,162 @@
+/* =================================== */
+/* ====== كود سلة المشتريات المخصص ====== */
+/* =================================== */
+
+.cart-page-wrapper .cart-item-header {
+    padding-bottom: 15px;
+    border-bottom: 2px solid #f0f0f0;
+    margin-bottom: 15px;
+}
+
+.cart-page-wrapper .heading-6 {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--dark-1);
+}
+
+.cart-page-wrapper .single-cart-item {
+    background: #fff;
+    padding: 25px 30px;
+    border: 1px solid #f0f0f0;
+    margin-top: 30px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.07);
+    border-radius: 5px;
+}
+
+.cart-page-wrapper .single-cart-item .product-cart {
+    align-items: center;
+}
+
+.cart-page-wrapper .single-cart-item .product-thumb {
+    max-width: 80px;
+    margin-right: 20px;
+    border: 1px solid #f0f0f0;
+    border-radius: 5px;
+}
+
+.cart-page-wrapper .single-cart-item .product-content .title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.cart-page-wrapper .single-cart-item .product-content .title a:hover {
+    color: var(--primary);
+}
+.cart-page-wrapper .single-cart-item .product-content p {
+    margin: 0;
+    font-size: 14px;
+    color: var(--dark-3);
+}
+
+.cart-page-wrapper .product-quantity {
+    max-width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cart-page-wrapper .cart-action a {
+    font-size: 20px;
+    color: var(--dark-3);
+    margin: 0 8px;
+    transition: all 0.3s ease-out 0s;
+}
+
+.cart-page-wrapper .cart-action a:hover {
+    color: var(--primary);
+}
+.cart-page-wrapper .cart-action a.delete:hover {
+    color: var(--danger);
+}
+
+
+/* تنسيق فورم الكوبون */
+.cart-page-wrapper .coupon-form p {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+/* نستخدم نفس تنسيق فورم النشرة البريدية */
+.cart-page-wrapper .coupon-form .single-form {
+    max-width: 100%;
+}
+.cart-page-wrapper .coupon-form .form-input {
+    display: flex;
+}
+.cart-page-wrapper .coupon-form .form-input input {
+    width: 100%;
+    border-radius: 5px 0 0 5px;
+}
+.cart-page-wrapper .coupon-form .form-input .main-btn {
+    border-radius: 0 5px 5px 0;
+    padding: 0 25px;
+}
+
+
+/* تنسيق ملخص الطلب الجانبي */
+.cart-summary-wrapper {
+    background: #fff;
+    padding: 30px;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.07);
+    border-radius: 5px;
+}
+.cart-summary-wrapper .heading-5 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.cart-summary-wrapper .cart-summary-list {
+    margin-top: 25px;
+}
+.cart-summary-wrapper .cart-summary-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    color: var(--dark-2);
+    margin-bottom: 15px;
+}
+.cart-summary-wrapper .cart-summary-list li span:last-child {
+    font-weight: 600;
+}
+
+.cart-summary-wrapper .cart-summary-list li.total {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--dark-1);
+    border-top: 1px solid #f0f0f0;
+    padding-top: 20px;
+}
+.cart-summary-wrapper .cart-summary-list li.total span:last-child {
+    color: var(--primary);
+}
+
+.cart-summary-wrapper .checkout-btn .main-btn {
+    width: 100%;
+}
+
+
+/* تعديلات للشاشات الصغيرة */
+@media (max-width: 767px) {
+    .single-cart-item {
+        padding: 20px;
+    }
+    .single-cart-item .product-cart {
+        margin-bottom: 20px; /* مسافة بين اسم المنتج والكمية في الموبايل */
+    }
+    .product-quantity {
+        margin-left: 0;
+        margin-right: auto;
+    }
+    .checkout-price {
+        text-align: left !important;
+    }
+    .cart-action {
+        text-align: left !important;
+    }
+    .cart-action a {
+        margin: 0 15px 0 0;
+    }
+    .coupon-form {
+        margin-bottom: 30px;
+    }
+}
