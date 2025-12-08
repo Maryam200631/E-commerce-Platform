@@ -1,0 +1,240 @@
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.dll.config
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.pdb
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.exe
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.exe.config
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.rsp
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.exe
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.exe.config
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.rsp
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.AppContext.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Console.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.Compression.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Net.Http.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.ValueTuple.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.exe.config
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.rsp
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.Up2Date
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.dll
+C:\Users\LENOVO\Downloads\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.pdb
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.dll.config
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.pdb
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.exe
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.exe.config
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.rsp
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.exe
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.exe.config
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.rsp
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.AppContext.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Console.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.Compression.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Net.Http.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.ValueTuple.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.exe
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.exe.config
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.rsp
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\VBCSCompiler.exe
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.AssemblyReference.cache
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.CoreCompileInputs.cache
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.Up2Date
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.dll
+C:\Users\future\Desktop\Rowad\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.pdb
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.dll.config
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.pdb
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.exe
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.exe.config
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.rsp
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.exe
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.exe.config
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.rsp
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.AppContext.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Console.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.Compression.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Net.Http.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.ValueTuple.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.exe
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.exe.config
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.rsp
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\VBCSCompiler.exe
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.AssemblyReference.cache
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.CoreCompileInputs.cache
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.Up2Date
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.pdb
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\EntityFramework.dll
+C:\Users\Khadega\Downloads\Telegram Desktop\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\EntityFramework.xml
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.dll.config
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\ECOMMERCE.pdb
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.exe
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.exe.config
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csc.rsp
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.exe
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.exe.config
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\csi.rsp
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.AppContext.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Console.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.Compression.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Net.Http.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.ValueTuple.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.exe
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.exe.config
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\vbc.rsp
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\VBCSCompiler.exe
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\EntityFramework.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\EntityFramework.xml
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.AssemblyReference.cache
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.CoreCompileInputs.cache
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.csproj.Up2Date
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.dll
+C:\Users\future\Desktop\Rowad\Project\ECOMMERCE (2)\ECOMMERCE\ECOMMERCE\obj\Debug\ECOMMERCE.pdb
